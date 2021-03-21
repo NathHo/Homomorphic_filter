@@ -5,7 +5,8 @@ The app includes a compression parameter "Comp" that reduces the pixel count, th
 For now the script doesn't support batch processing, I might add it later.
 
 Hope it helps!!
-
+--- App availible in .exe and .py (python 3) ---
+ 
 ![Image1](https://user-images.githubusercontent.com/81107000/111916213-32d88700-8a50-11eb-820b-84050248f50c.png)
 
 
