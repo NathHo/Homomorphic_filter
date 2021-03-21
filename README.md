@@ -8,7 +8,7 @@ For now the script doesn't support batch processing, I might add it later.
 
 Hope it'll be useful!
 
---- App availible in .exe and .py (python 3) , note that your antivirus might be scared of the .exe ---
+--- App availible in .exe and .py (python 3 required module -> opencv-python and pillow) , note that your antivirus might be scared of the .exe ---
  
 ![Image1](https://user-images.githubusercontent.com/81107000/111916213-32d88700-8a50-11eb-820b-84050248f50c.png)
 
